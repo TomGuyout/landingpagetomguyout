@@ -1,0 +1,19 @@
+.banner{
+	    background-image: linear-gradient(-225deg,rgb(173 120 213 / 62%)0%,rgb(109 153 233 / 32%)50%),url(../images/deadp.jpeg);
+height: 26vh;
+padding: 150px 0px;
+     background-size : cover;
+    
+
+}
+
+.banner h1 {
+     font-size: 50px;
+     font-family: 'Comforter', cursive;
+}
+.banner h2 {
+     font-size: 30px;
+     font-weight: lighter;
+     
+}
+
